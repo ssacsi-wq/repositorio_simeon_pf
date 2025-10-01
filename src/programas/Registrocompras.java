@@ -29,3 +29,4 @@ public class Registrocompras {
         System.out.println("Promedio de compras  : " + promedioCompras);
     }
 }
+
